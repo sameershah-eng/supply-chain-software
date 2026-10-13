@@ -1,0 +1,6 @@
+{
+  "name": "Capora - Supply Chain Capacity Management",
+  "description": "Unified supply chain capacity management platform connecting Contract Manufacturers, Suppliers, and Customers with live capacity booking, material tracking, and production execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
